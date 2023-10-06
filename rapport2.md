@@ -64,22 +64,22 @@ Réussite ☐         ou          Insatisfaction ☐
 
 **Description de la situation Que vouliez-vous faire ? Quel était l'objectif visé ?**
  
-## PENDANT 
-**Ce qui est arrivé Décrivez en détail la situation (la séquence des événements, votre intervention, votre façon de procéder, d'autres éléments de contexte plus complexes, etc.) en expliquant clairement la réussite ou l’insatisfaction.**
+## PENDANT - Ce qui est arrivé 
+**Décrivez en détail la situation (la séquence des événements, votre intervention, votre façon de procéder, d'autres éléments de contexte plus complexes, etc.) en expliquant clairement la réussite ou l’insatisfaction.**
 
 **État d'esprit Décrivez ce que vous pensiez ou ressentiez aux différents moments de cette situation (au début, pendant et à la fin), par exemple du stress, de l'anxiété, de la confiance, de la détermination, de la persévérance ou du découragement, etc.**
 
 ## APRÈS  
 ### S'il s'agit d'une réussite 
-**citez et détaillez toutes les raisons qui expliquent votre réussite, par exemple: connaissances techniques ou théoriques, habiletés utilisées, attitudes, façon de procéder, adaptabilité, personnalité, motivation à accomplir la tâche ou à résoudre le problème, etc.**
+**Citez et détaillez toutes les raisons qui expliquent votre réussite, par exemple: connaissances techniques ou théoriques, habiletés utilisées, attitudes, façon de procéder, adaptabilité, personnalité, motivation à accomplir la tâche ou à résoudre le problème, etc.**
 ### S’il s’agit d’une insatisfaction
-**citez et détaillez toutes les difficultés et les obstacles rencontrés, par exemple: manque de connaissances techniques ou théoriques, manque d’habiletés, attitudes inadéquates, façon de procéder erronée, manque d'adaptabilité, personnalité, qualité de la motivation à accomplir la tâche ou à résoudre le problème, etc.**
+**Citez et détaillez toutes les difficultés et les obstacles rencontrés, par exemple: manque de connaissances techniques ou théoriques, manque d’habiletés, attitudes inadéquates, façon de procéder erronée, manque d'adaptabilité, personnalité, qualité de la motivation à accomplir la tâche ou à résoudre le problème, etc.**
 
 ## Améliorations 
 ### S'il s'agit d'une réussite
-**qu'est-ce que vous amélioreriez quand même dans votre façon d'agir ?**
+**Qu'est-ce que vous amélioreriez quand même dans votre façon d'agir ?**
 ### S’il s’agit d’une insatisfaction
-**quelle était votre part de responsabilité dans cette situation? Quels sont les moyens que vous allez utiliser pour corriger le problème ou éviter que cette situation ne se reproduise ?**
+**Quelle était votre part de responsabilité dans cette situation? Quels sont les moyens que vous allez utiliser pour corriger le problème ou éviter que cette situation ne se reproduise ?**
 
 
 # Bilan de mi-stage

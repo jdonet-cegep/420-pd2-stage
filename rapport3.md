@@ -31,9 +31,9 @@ _Qualité du français écrit (fautes, structure de phrases, termes justes)_
 Note :	Cette question est le début d'une réflexion qui vous aidera lors de la préparation de votre présentation à la fin de votre stage. Si vous avez de la difficulté à y répondre, n'hésitez pas à contacter votre professeur superviseur.**
 
 # Bilan de stage
-**Dans le rapport #1, vous avez mentionné des inquiétudes par rapport à ce stage. Se sont-elles confirmées, si oui dans quelle mesure et sinon, à quel moment se sont-elles estompées. Quelle que soit votre réponse, qu'avez-vous fait pour les atténuer ?**
+**[Dans le rapport #1](rapport1.md#réflexion-sur-votre-stage), vous avez mentionné des inquiétudes par rapport à ce stage. Se sont-elles confirmées, si oui dans quelle mesure et sinon, à quel moment se sont-elles estompées. Quelle que soit votre réponse, qu'avez-vous fait pour les atténuer ?**
 
-**Dans ce même rapport, vous avez mentionné des attentes, désirs par rapport à ce stage. Étaient-ils réalistes, se sont-ils exaucés ou sont-ils en voient de l’être ?**
+**Dans ce même rapport, vous avez mentionné des attentes, désirs par rapport à ce stage. Étaient-ils réalistes, se sont-ils exaucés ou sont-ils en voie de l’être ?**
 
 **Quelles sont les connaissances et habiletés que vous avez acquises durant votre stage qui ne faisaient pas partie de votre formation au Cégep ?**
 
@@ -50,8 +50,10 @@ Note :	Cette question est le début d'une réflexion qui vous aidera lors de la 
 
 # Bilan formation
 Au terme de votre programme collégial technique, c'est le moment de formuler votre avis sur la formation reçue au Cégep de Sherbrooke par rapport aux exigences du marché du travail que vous avez rencontrées.
-**Énumérez ci-dessous les lacunes et les points forts de cette formation ainsi que vos recommandations. 
-Attention... Ce bilan doit être constructif. Tout manque de respect envers une personne physique ou morale (collègue, professeur, employeur, cégep) entraînera la note zéro (0) pour le rapport de cette dernière étape.**
+
+Énumérez ci-dessous les lacunes et les points forts de cette formation ainsi que vos recommandations. 
+
+Attention... Ce bilan doit être constructif. Tout manque de respect envers une personne physique ou morale (collègue, professeur, employeur, cégep) entraînera la note zéro (0) pour le rapport de cette dernière étape.
  
 ## Points forts 	
 
