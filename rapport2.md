@@ -46,6 +46,7 @@ _Attention: Votre réponse peut être très subjective et donc doit refléter vo
 ### Consignes
 #### Définitions
 _Situation de réussite : Situation d'ordre professionnel plus ou moins complexe et significative dans laquelle votre façon de faire ou encore votre façon d'être a eu une influence bénéfique marquée_
+
 _Situation d'insatisfaction : Situation d'ordre professionnel plus ou moins complexe et au cours de laquelle vous avez vécu une insatisfaction dans laquelle vous avez une part de responsabilité significative_
 #### Travail préparatoire
 _-	Vous devez choisir une situation de travail que vous avez vécue et qui doit être terminée_
@@ -67,7 +68,7 @@ Réussite ☐         ou          Insatisfaction ☐
 ## PENDANT - Ce qui est arrivé 
 **Décrivez en détail la situation (la séquence des événements, votre intervention, votre façon de procéder, d'autres éléments de contexte plus complexes, etc.) en expliquant clairement la réussite ou l’insatisfaction.**
 
-**État d'esprit Décrivez ce que vous pensiez ou ressentiez aux différents moments de cette situation (au début, pendant et à la fin), par exemple du stress, de l'anxiété, de la confiance, de la détermination, de la persévérance ou du découragement, etc.**
+**État d'esprit. Décrivez ce que vous pensiez ou ressentiez aux différents moments de cette situation (au début, pendant et à la fin), par exemple du stress, de l'anxiété, de la confiance, de la détermination, de la persévérance ou du découragement, etc.**
 
 ## APRÈS  
 ### S'il s'agit d'une réussite 

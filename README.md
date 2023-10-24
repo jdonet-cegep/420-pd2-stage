@@ -19,7 +19,7 @@ Semaine 4 : [Rapport de stage 1](rapport1.md)
 
 Semaine 6 : [Rapport de stage 2](rapport2.md)
 
-Semaine 12 : [Rapport de stage 2](rapport3.md)
+Semaine 12 : [Rapport de stage 3](rapport3.md)
 ### Présentation finale
 Vous êtes tenus de réaliser à l'issu du stage une présentation finale. 
 Vous devez réaliser un support de diaporama et une présentation orale de 20 minutes
